@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Igor! I am very cool guy from country of Ukraine.
+I am Ukrainian and speak English and Russian and Ukrainian and C++! xD  
+
+
 <!--
 **Igor-Karpliuk/Igor-Karpliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
